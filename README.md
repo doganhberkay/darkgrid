@@ -1,3 +1,3 @@
 # Dark Grid
 
-Privacy policy for the Dark Grid puzzle game: https://doganhberkay.github.io/darkgrid/
+Privacy policy for Dark Grid, a light-beam and mirror puzzle game: https://doganhberkay.github.io/darkgrid/
