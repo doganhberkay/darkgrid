@@ -1,0 +1,8 @@
+{
+  "interstitial_enabled": 1,
+  "interstitial_every": 4,
+  "interstitial_first_after": 5,
+  "interstitial_min_seconds": 180,
+  "interstitial_session_cap": 6,
+  "rewarded_grace_seconds": 180
+}
